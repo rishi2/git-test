@@ -4,4 +4,5 @@ Test -master commit2
 Test -master commit3
 Test -master commit4
 Test -branch2 commit1
-Test -branch2 commit2
+Test -branch2 commit 2
+Test -branch2 commit3
